@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbraimBarrios
+- 👋 Hi, I’m Ibraim Barrios
 
 <!---
 IbraimBarrios/IbraimBarrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
